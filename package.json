@@ -2,7 +2,7 @@
     "name": "beats-player",
     "productName": "beats-player",
     "version": "1.0.0",
-    "description": "My Electron application description",
+    "description": "A video player that supports various video formats. A video player typically has features such as playback control, volume adjustment, full-screen mode, PIP.",
     "main": "src/index.js",
     "scripts": {
         "start": "electron-forge start",
