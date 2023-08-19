@@ -1,4 +1,4 @@
 [submodule "src/media"]
 	path = src/media
-	url = git@github.com:MihinMUD/beats-player.git
+	url = git@github.com:MeCandyCat/beats-player.git
 	branch = site
