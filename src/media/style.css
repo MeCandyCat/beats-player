@@ -19,10 +19,6 @@ body {
     color: rgb(244, 244, 244);
 }
 
-.videoXX {
-    align-content: center;
-}
-
 .container {
     display: flex;
     flex-direction: column;
@@ -32,6 +28,7 @@ body {
 
 .input-container {
     display: flex;
+    align-items: center;
     gap: 10px;
 }
 
